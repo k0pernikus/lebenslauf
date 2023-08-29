@@ -1,11 +1,10 @@
-# The Curriculum Vitae Template
+# CV
 
-You are a fantastic developer. Keep your CV on GitHub. Host it on GitHub Pages. Have both HTML and PDF versions automatically generated and consistent.
+Ich bin Philipp Kretzschmar @k0pernikus, Entwickler aus Hamburg.
 
-## What does this project do?
+# Credits
 
-* Helps you to manage your CV as a web app (HTML + CSS + JS).
-* Automatically generates and publishes HTML and PDF version on every push to `main`.
+Based on [sneas/cv-template](https://github.com/sneas/cv-template)
 
 Demo: [http://sneas.github.io/cv-template](http://sneas.github.io/cv-template).
 
