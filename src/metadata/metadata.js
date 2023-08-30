@@ -36,6 +36,10 @@ Wartung und Weiterentwicklung der Webapplikation des DEMV, damit Versicherungsma
         'php', 'symfony', 'typescript', 'scala', 'tdd', 'unit tests','functional tests', 'mysql', 'nats-io', 'aws', 'docker'],
       contents: `
 Für das Online-Reisebüro für Kreuzfahrten war ich verantwortlich für Preisdatenimport für verschiedene Passagierkombinationen aus unterschiedlichen Quellen. Darüber hinaus Konzpetionierung, Implementierung und Wartung von interner Buchungsschnittstelle, die externe Reedereei-Buchungs-Schnittstellen abstrahiert und intern einheitlich nutzbar macht. Großer Fokus auf testgetriebene Entwicklung (Unit Tests, functional tests). Verschiedene Technolgien eingesetzt, von php, über typescript/nodejs, bis hin zu scala.
+
+Ich war darüber hinaus am Prozess beteiligt, die Entwicklungsumgebung von ansible auf einen docker / docker-compose Stack zu verändern.
+
+Darüber hinaus auch Einrichtung von Contionous Delivery Pipeline mittels Jenkins und Marathon / mesos.
 `
     },
     {
