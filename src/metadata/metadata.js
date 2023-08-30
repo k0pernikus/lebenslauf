@@ -30,7 +30,7 @@ Wartung und Weiterentwicklung der Webapplikation des DEMV, damit Versicherungsma
 `
     },
     {
-      title: 'Software Developer Dreamlings GmbH',
+      title: 'Software Developer Dreamlines GmbH',
       period: 'Mai 2015 – Juni 2020',
       skills: [
         'php', 'symfony', 'typescript', 'scala', 'tdd', 'unit tests','functional tests', 'mysql', 'nats-io', 'aws', 'docker'],
@@ -86,7 +86,7 @@ Verhandlungssicher Englischkenntnisse C2
       header: 'Meetups',
       skills: ['jsunconf@hamburg', 'phpunonf@hamburg', 'symfonylive@berlin', 'jsconf@berlin', 'meetups'],
       contents: `
-Ich nehme gern an (Un)Conferenzen Teil und besuche gern Workshops. Ich habe bspw. auf der JavaScript Usergroup einen Vortrag gehalten (Golden Master Tests anhand eines Bestandprojekts mittels nock-Libary). Darüber hinaus Teilnahme an Veranstaltungen des Agilen Norden e.V.
+Ich nehme gern an (Un)Conferenzen Teil und besuche gern Workshops. Ich habe bspw. auf der JavaScript Usergroup einen Vortrag gehalten (Golden Master Tests anhand eines Bestandprojekts mittels der nock-Libary). Darüber hinaus Teilnahme an Veranstaltungen des Agilen Norden e.V.
 `
     }
   ]
