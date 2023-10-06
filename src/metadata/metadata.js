@@ -5,6 +5,7 @@ module.exports = {
     '<i class="fa fa-home fact-icon"></i>Wohnort': '<a href="https://www.google.com/maps/place/Billstedt+Hamburg">Hamburg</a>',
     '<i class="fa fa-envelope fact-icon"></i>E-Mail': '<a href="mailto:philipp.kretzschmar@gmail.com">philipp.kretzschmar@gmail.com</a>',
     '<i class="fa fa-phone fact-icon"></i>Telefon': '<a href="tel:+4915773874337">01577-3874337</a>',
+    '<i class="fa-brands fa-stack-overflow fact-icon"></i>Stackoverflow': '<a href="https://stackoverflow.com/users/457268/k0pernikus">k0pernikus</a>'
   },
   skills: [
     ['php', 100],
@@ -26,18 +27,18 @@ module.exports = {
       period: 'Juli 2020 - September 2022',
       skills: ['php', 'yi@1.1', 'mysql', 'docker', 'laravel', 'vuejs', 'unit tests'],
       contents: `
-Wartung und Weiterentwicklung der Webapplikation des DEMV, damit Versicherungsmakler ihren Kundenstamm (teil)autotmatisiert verwalten können. Aufgaben umfassen Datenimport über GDV-Dateien um Kundenstamm aktuell zu halten (persönliche Vertragsdaten, Schäden). Weiterentwicklung der Maklersoftware basierend auf dem yi-Framework, sodass Makler ihren Automatiserungsgrad erkennen und ausbauen können. Konzeption und Umsetzung Ausbaustufe, sodass Makler mit ihren Kunden in Kontakt treten können und relevante Kundendaten nicht manuell eingegeben werden müssen. Begleitung der Umgestaltung, dass Teile der Bestandssoftware mittels Laravel neu implementiert wird.
+Wartung und Weiterentwicklung der Webapplikation für Makler des Deutschen Maklerverbundes (DEMV) basierend auf dem yi-Framework. Umsetzung von automatischen Kundendaten-Import, bspw. persönliche Vertragsdaten und Schadensinformationen, über GDV-Dateien, die von Versicherungsgesellschaften bereit gestellt werden. Darüber können Versicherungsmakler ihren Kundenstamm (teil)autotmatisiert verwalten. Weiterentwicklung der Maklersoftware, sodass Makler ihren Automatiserungsgrad erkennen und erweitern können. Konzeption und Umsetzung einer Ausbaustufe, sodass Makler mit ihren Kunden direkt in Kontakt treten können und relevante Kundendaten nicht manuell eingegeben werden müssen, sondern relevante Daten automatisch vorgeschlagen werden. Reimplementierung von Teilen der Bestandssoftware auf Basis von Laravel.
 `
     },
     {
       title: 'Software Developer Dreamlines GmbH',
       period: 'Mai 2015 – Juni 2020',
       skills: [
-        'php', 'symfony', 'typescript', 'scala', 'tdd', 'unit tests','functional tests', 'mysql', 'nats-io', 'aws', 'docker'],
+        'php', 'symfony', 'typescript', 'scala', 'tdd', 'unit tests','functional tests', 'e2e tests', 'mysql', 'nats-io', 'aws', 'docker'],
       contents: `
-Für das Online-Reisebüro für Kreuzfahrten war ich verantwortlich für Preisdatenimport für verschiedene Passagierkombinationen aus unterschiedlichen Quellen. Darüber hinaus Konzpetionierung, Implementierung und Wartung von interner Buchungsschnittstelle, die externe Reedereei-Buchungs-Schnittstellen abstrahiert und intern einheitlich nutzbar macht. Großer Fokus auf testgetriebene Entwicklung (Unit Tests, functional tests). Verschiedene Technolgien eingesetzt, von php, über typescript/nodejs, bis hin zu scala.
+Für das Online-Reisebüro für Kreuzfahrten war ich verantwortlich für Preisdatenimport für verschiedene Passagierkombinationen aus unterschiedlichen Quellen (SOAP API, Rest API, mysql dumps, crawler). Konzpetionierung, Implementierung und Wartung von interner Buchungsschnittstelle, die externe Reedereei-Buchungs-Schnittstellen abstrahiert und intern einheitlich nutzbar macht. Großer Fokus auf testgetriebene Entwicklung (Unit Tests, functional tests). Verschiedene Technolgien eingesetzt, von php (symfony), über typescript/nodejs, bis hin zu scala.
 
-Ich war darüber hinaus am Prozess beteiligt, die Entwicklungsumgebung von ansible auf einen docker / docker-compose Stack zu verändern.
+Ich war darüber hinaus am Prozess beteiligt, die Entwicklungsumgebung von ansible auf einen docker / docker-compose Stack umzustellen.
 
 Darüber hinaus auch Einrichtung von Contionous Delivery Pipeline mittels Jenkins und Marathon / mesos.
 `
@@ -84,9 +85,9 @@ Verhandlungssicher Englischkenntnisse C2
     },
     {
       header: 'Meetups',
-      skills: ['jsunconf@hamburg', 'phpunonf@hamburg', 'symfonylive@berlin', 'jsconf@berlin', 'meetups'],
+      skills: ['jsunconf@hamburg', 'phpunonf@hamburg', 'symfonylive@berlin', 'jsconf@berlin', 'scrumtisch' ,'meetups'],
       contents: `
-Ich nehme gern an (Un)Conferenzen Teil und besuche gern Workshops. Ich habe bspw. auf der JavaScript Usergroup einen Vortrag gehalten (Golden Master Tests anhand eines Bestandprojekts mittels der nock-Libary). Darüber hinaus Teilnahme an Veranstaltungen des Agilen Norden e.V.
+Ich nehme gern an (Un)Conferenzen (php, javascript) Teil. Ich habe bspw. auf der JavaScript Usergroup einen Vortrag gehalten (Golden Master Tests anhand eines Bestandprojekts mittels der nock-Libary). Darüber hinaus Teilnahme an Veranstaltungen des Agilen Norden e.V.
 `
     }
   ]
